@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/margin_16">
+
+    <CheckBox
+        android:id="@+id/reportNamecb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/margin_16"
+        android:buttonTint="@color/black"
+        android:fontFamily="sans-serif"
+        android:paddingLeft="@dimen/margin_16"
+        android:text="Madhu"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+</RelativeLayout>

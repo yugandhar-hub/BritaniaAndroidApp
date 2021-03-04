@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="button_color">#99C0DF</color>
+    <color name="button_color1">#144474</color>
+    <color name="colorPrimary">@color/button_color1</color>
+    <color name="colorPrimaryDark">@color/button_color</color>
+
+    <color name="colorSecondaryDark">#494949</color>
+    <color name="colorSecondaryLight">#9A9A9A</color>
+    <color name="colorTextButton">#19D895</color>
+    <color name="colorTextButton1">#34A853</color>
+    <color name="colorTextButtonYellow">#FBBC04</color>
+    <color name="colorTextBlue">#10BDFF</color>
+
+    <color name="colorSecondaryGreen">#1DB494</color>
+
+    <color name="colorAccent">#EA4335</color>
+
+    <color name="colorGreen">@color/colorSecondaryGreen</color>
+    <color name="colorRed">#F95F62</color>
+
+    <color name="colorOffDuty">@color/colorRed</color>
+
+    <color name="colorBackground">#1B2137</color>
+    <color name="colorConnected">@color/colorTextButton</color>
+    <color name="colorDisconnected">@color/colorRed</color>
+
+    <color name="colorPrimaryText">@color/colorSecondaryLight</color>
+
+    <color name="colorTransparent">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="textWarningColor">#DB1B00</color>
+
+
+    <!-- Material Colors -->#FC644F
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_900">#212121</color>
+    <color name="grey_dark">#2F333F</color>
+
+    <color name="profileTextHeader">#97A6B7</color>
+    <color name="edittext_bg">#252C46</color>
+    <color name="login_button_color">@color/colorTextButton</color>
+    <color name="login_page_text_color">#9A9A9A</color>
+    <color name="mainBgColor">#FAFAFA</color>
+
+    <!--Light Background Dark Text-->
+
+    <!--Dark Background Light Text-->
+
+
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="text_color">#989898</color>
+    <color name="material_grey_50">#fffafafa</color>
+
+
+</resources>
