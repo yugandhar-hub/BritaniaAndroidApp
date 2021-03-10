@@ -18,6 +18,6 @@ Add Report : Add report button in filter page will take you to the Add Report Sc
 Delete Report : Delete report button in the filter page will bring you Popup which contains list of report names. User can able to select multiple report names and he can able to search the reports in the popup. Once after selecting reports then can able to click on the DELETE REPORT Button. this button makes http post request using Volley to delete the selected Reports. Before calling api Prompt will appear to get confirmation from the user.
 
 ## Tools used
-1.Using Latest Android Studio Version.
-2.App Compitable up to Latest Android Version
-3.Using Volley Library for network operations
+1. Using Latest Android Studio Version.
+2. App Compitable up to Latest Android Version
+3. Using Volley Library for network operations
